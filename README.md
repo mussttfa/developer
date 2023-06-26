@@ -6,4 +6,4 @@
 <h2> Developer </h2>
 
 
-![] (developer.gif)
+![](developer.gif)
